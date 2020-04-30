@@ -2,6 +2,8 @@
 
 > pug, scss, vue, vue-router, axios, todo-list
 
+Demo: http://alexned.site/
+
 ## Build Setup
 
 ``` bash
